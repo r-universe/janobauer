@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "bdsvd"]
 	path = bdsvd
-	url = https://github.com/cran/bdsvd
+	url = https://github.com/janobauer/bdsvd
 [submodule "blox"]
 	path = blox
 	url = https://github.com/cran/blox
